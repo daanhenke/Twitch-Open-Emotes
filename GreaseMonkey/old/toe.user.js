@@ -2,7 +2,7 @@
 // @name        SoberScript
 // @namespace   drunkdevs
 // @description Here ya go guy
-// @include     http://www.twitch.tv/*
+// @include     http://www.twitch.tv/*/chat?popout=
 // @version     1
 // @grant       none
 // ==/UserScript==
