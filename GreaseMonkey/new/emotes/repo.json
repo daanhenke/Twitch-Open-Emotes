@@ -1,7 +1,7 @@
 
 
 {
-    emotes:
+    "emotes":
     {
         "__any__":
         {
@@ -9,18 +9,18 @@
             "DrunkBeHappy": "http://i.imgur.com/EeNOpQn.png"
         }
     },
-    mod_icons:
+    "mod_icons":
     {
         "__any__": {
             "drunkdevs": "lovedperson",
             "squaresgaming": "lovedperson"
         }
     },
-    mod_icon_types:
+    "mod_icon_types":
     {
         "__any__": {
             "lovedperson": "background: #CE2929 url('http://i.imgur.com/3p37omZ.png') repeat scroll 0% 0% / 100% auto;"
         }
     },
-    classes: [".chat-lines", ".conversation-chat-lines"]
+    "classes": [".chat-lines", ".conversation-chat-lines"]
 }
