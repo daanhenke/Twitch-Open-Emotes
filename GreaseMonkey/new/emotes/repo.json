@@ -1,10 +1,26 @@
+
+
 {
-  "__all__":
-  {
-    "KappaKush": "https://cdn.frankerfacez.com/emoticon/57884/1"
-  },
-  "drunkdevs":
-  {
-    "NotKappaKush": "https://cdn.frankerfacez.com/emoticon/57884/1"
-  }
+    emotes:
+    {
+        "__any__":
+        {
+            "KappaKush": "https://cdn.frankerfacez.com/emoticon/57884/1",
+            "DrunkBeHappy": "http://i.imgur.com/EeNOpQn.png"
+        }
+    },
+    mod_icons:
+    {
+        "__any__": {
+            "drunkdevs": "lovedperson",
+            "squaresgaming": "lovedperson"
+        }
+    },
+    mod_icon_types:
+    {
+        "__any__": {
+            "lovedperson": "background: #CE2929 url('http://i.imgur.com/3p37omZ.png') repeat scroll 0% 0% / 100% auto;"
+        }
+    },
+    classes: [".chat-lines", ".conversation-chat-lines"]
 }
